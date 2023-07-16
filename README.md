@@ -2,14 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started Promotopea
 
-First, run the development server:
+Find me on :
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+https://www.kabirshuvo.com
 ```
 
 ## Learn More
